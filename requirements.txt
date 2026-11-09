@@ -1,0 +1,7 @@
+import streamlit as st
+
+st.title("Water and Electricity Monitoring System")
+
+st.write("Welcome to our smart consumption monitoring system!")
+
+st.success("Dashboard is running successfully!")

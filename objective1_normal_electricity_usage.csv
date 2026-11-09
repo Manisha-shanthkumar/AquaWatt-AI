@@ -1,0 +1,71 @@
+date,site_id,setting,site_name,activity_units,unit_type,lighting_kwh,fans_kwh,refrigerator_kwh,cooking_appliances_kwh,washing_and_cleaning_kwh,electronics_kwh,air_conditioning_kwh,other_kwh,daily_total_kwh,kwh_per_activity_unit,normal_baseline_min_kwh,normal_baseline_max_kwh,status,data_type
+2026-11-01,H01,Individual household,4-member household,4,residents,1.16,2.09,2.91,1.4,1.16,1.74,1.16,0.01,21.240000000000002,2.908,9.84,14.16,Normal,Simulated demonstration data
+2026-11-01,A01,Apartment building,20-flat apartment (80 residents),80,residents,28.81,38.41,43.21,24.01,19.2,24.01,38.41,24.0,240.06,3.001,196.8,283.2,Normal,Simulated demonstration data
+2026-11-01,S01,School,School (350 students and staff),350,people present,6.0,6.55,0.82,2.73,1.64,4.09,1.36,4.09,27.28,0.078,135.0,225.0,Normal,Simulated demonstration data
+2026-11-01,M01,Small food-processing industry,Small food-processing unit,1000,kg product processed,27.87,18.58,37.17,9.29,37.17,18.58,13.94,301.98,464.58,0.465,697.0,1003.0,Normal,Simulated demonstration data
+2026-11-01,HSP01,Hospital,60-bed community hospital,50,occupied beds (approx.),84.21,42.1,42.1,42.1,52.63,63.16,121.05,78.96,526.31,10.526,426.4,613.6,Normal,Simulated demonstration data
+2026-11-02,H01,Individual household,4-member household,4,residents,1.2,2.16,3.0,1.44,1.2,1.8,1.2,-0.02,11.98,2.995,9.84,14.16,Normal,Simulated demonstration data
+2026-11-02,A01,Apartment building,20-flat apartment (80 residents),80,residents,28.86,38.48,43.29,24.05,19.24,24.05,38.48,24.07,240.52,3.006,196.8,283.2,Normal,Simulated demonstration data
+2026-11-02,S01,School,School (350 students and staff),350,people present,37.71,41.14,5.14,17.14,10.29,25.71,8.57,25.72,171.42,0.49,135.0,225.0,Normal,Simulated demonstration data
+2026-11-02,M01,Small food-processing industry,Small food-processing unit,1000,kg product processed,47.82,31.88,63.76,15.94,63.76,31.88,23.91,518.06,797.01,0.797,697.0,1003.0,Normal,Simulated demonstration data
+2026-11-02,HSP01,Hospital,60-bed community hospital,50,occupied beds (approx.),80.35,40.17,40.17,40.17,50.22,60.26,115.5,75.33,502.17,10.043,426.4,613.6,Normal,Simulated demonstration data
+2026-11-03,H01,Individual household,4-member household,4,residents,1.25,2.24,3.12,1.5,1.25,1.87,1.25,-0.01,12.47,3.118,9.84,14.16,Normal,Simulated demonstration data
+2026-11-03,A01,Apartment building,20-flat apartment (80 residents),80,residents,27.16,36.21,40.74,22.63,18.11,22.63,36.21,22.64,226.33,2.829,196.8,283.2,Normal,Simulated demonstration data
+2026-11-03,S01,School,School (350 students and staff),350,people present,38.66,42.18,5.27,17.57,10.54,26.36,8.79,26.37,175.74,0.502,135.0,225.0,Normal,Simulated demonstration data
+2026-11-03,M01,Small food-processing industry,Small food-processing unit,1000,kg product processed,50.37,33.58,67.16,16.79,67.16,33.58,25.18,545.62,839.44,0.839,697.0,1003.0,Normal,Simulated demonstration data
+2026-11-03,HSP01,Hospital,60-bed community hospital,50,occupied beds (approx.),83.82,41.91,41.91,41.91,52.39,62.86,120.49,78.57,523.86,10.477,426.4,613.6,Normal,Simulated demonstration data
+2026-11-04,H01,Individual household,4-member household,4,residents,1.19,2.14,2.97,1.43,1.19,1.78,1.19,0.0,11.89,2.973,9.84,14.16,Normal,Simulated demonstration data
+2026-11-04,A01,Apartment building,20-flat apartment (80 residents),80,residents,30.03,40.04,45.04,25.02,20.02,25.02,40.04,25.03,250.24,3.128,196.8,283.2,Normal,Simulated demonstration data
+2026-11-04,S01,School,School (350 students and staff),350,people present,42.37,46.22,5.78,19.26,11.56,28.89,9.63,28.88,192.59,0.55,135.0,225.0,Normal,Simulated demonstration data
+2026-11-04,M01,Small food-processing industry,Small food-processing unit,1000,kg product processed,51.56,34.37,68.75,17.19,68.75,34.37,25.78,558.57,859.34,0.859,697.0,1003.0,Normal,Simulated demonstration data
+2026-11-04,HSP01,Hospital,60-bed community hospital,50,occupied beds (approx.),79.73,39.87,39.87,39.87,49.83,59.8,114.62,74.75,498.34,9.967,426.4,613.6,Normal,Simulated demonstration data
+2026-11-05,H01,Individual household,4-member household,4,residents,1.26,2.27,3.16,1.52,1.26,1.89,1.26,0.01,12.63,3.158,9.84,14.16,Normal,Simulated demonstration data
+2026-11-05,A01,Apartment building,20-flat apartment (80 residents),80,residents,30.03,40.04,45.04,25.02,20.02,25.02,40.04,25.03,250.24,3.128,196.8,283.2,Normal,Simulated demonstration data
+2026-11-05,S01,School,School (350 students and staff),350,people present,39.37,42.95,5.37,17.9,10.74,26.85,8.95,26.84,178.97,0.511,135.0,225.0,Normal,Simulated demonstration data
+2026-11-05,M01,Small food-processing industry,Small food-processing unit,1000,kg product processed,53.43,35.62,71.24,17.81,71.24,35.62,26.72,578.84,890.52,0.891,697.0,1003.0,Normal,Simulated demonstration data
+2026-11-05,HSP01,Hospital,60-bed community hospital,50,occupied beds (approx.),87.68,43.84,43.84,43.84,54.8,65.76,126.04,82.18,547.98,10.96,426.4,613.6,Normal,Simulated demonstration data
+2026-11-06,H01,Individual household,4-member household,4,residents,1.28,2.3,3.19,1.53,1.28,1.91,1.28,-0.01,12.76,3.19,9.84,14.16,Normal,Simulated demonstration data
+2026-11-06,A01,Apartment building,20-flat apartment (80 residents),80,residents,27.86,37.15,41.79,23.22,18.58,23.22,37.15,23.22,232.19,2.902,196.8,283.2,Normal,Simulated demonstration data
+2026-11-06,S01,School,School (350 students and staff),350,people present,37.81,41.25,5.16,17.19,10.31,25.78,8.59,25.77,171.86,0.491,135.0,225.0,Normal,Simulated demonstration data
+2026-11-06,M01,Small food-processing industry,Small food-processing unit,1000,kg product processed,53.47,35.65,71.29,17.82,71.29,35.65,26.74,579.26,891.17,0.891,697.0,1003.0,Normal,Simulated demonstration data
+2026-11-06,HSP01,Hospital,60-bed community hospital,50,occupied beds (approx.),80.53,40.27,40.27,40.27,50.33,60.4,115.76,75.49,503.32,10.066,426.4,613.6,Normal,Simulated demonstration data
+2026-11-07,H01,Individual household,4-member household,4,residents,1.16,2.09,2.9,1.39,1.16,1.74,1.16,0.02,11.62,2.905,9.84,14.16,Normal,Simulated demonstration data
+2026-11-07,A01,Apartment building,20-flat apartment (80 residents),80,residents,27.24,36.32,40.86,22.7,18.16,22.7,36.32,22.71,227.01,2.838,196.8,283.2,Normal,Simulated demonstration data
+2026-11-07,S01,School,School (350 students and staff),350,people present,28.88,31.51,3.94,13.13,7.88,19.69,6.56,19.7,131.29,0.375,135.0,225.0,Normal,Simulated demonstration data
+2026-11-07,M01,Small food-processing industry,Small food-processing unit,1000,kg product processed,48.85,32.57,65.14,16.28,65.14,32.57,24.43,529.24,814.22,0.814,697.0,1003.0,Normal,Simulated demonstration data
+2026-11-07,HSP01,Hospital,60-bed community hospital,50,occupied beds (approx.),79.36,39.68,39.68,39.68,49.6,59.52,114.08,74.38,495.98,9.92,426.4,613.6,Normal,Simulated demonstration data
+2026-11-08,H01,Individual household,4-member household,4,residents,1.22,2.19,3.05,1.46,1.22,1.83,1.22,0.0,12.19,3.047,9.84,14.16,Normal,Simulated demonstration data
+2026-11-08,A01,Apartment building,20-flat apartment (80 residents),80,residents,27.36,36.48,41.05,22.8,18.24,22.8,36.48,22.82,228.03,2.85,196.8,283.2,Normal,Simulated demonstration data
+2026-11-08,S01,School,School (350 students and staff),350,people present,6.21,6.78,0.85,2.82,1.69,4.23,1.41,4.24,28.23,0.081,135.0,225.0,Normal,Simulated demonstration data
+2026-11-08,M01,Small food-processing industry,Small food-processing unit,1000,kg product processed,26.17,17.45,34.9,8.72,34.9,17.45,13.09,283.55,436.23,0.436,697.0,1003.0,Normal,Simulated demonstration data
+2026-11-08,HSP01,Hospital,60-bed community hospital,50,occupied beds (approx.),88.7,44.35,44.35,44.35,55.44,66.52,127.5,83.15,554.36,11.087,426.4,613.6,Normal,Simulated demonstration data
+2026-11-09,H01,Individual household,4-member household,4,residents,1.14,2.05,2.85,1.37,1.14,1.71,1.14,-0.02,11.38,2.845,9.84,14.16,Normal,Simulated demonstration data
+2026-11-09,A01,Apartment building,20-flat apartment (80 residents),80,residents,27.57,36.75,41.35,22.97,18.38,22.97,36.75,22.97,229.71,2.871,196.8,283.2,Normal,Simulated demonstration data
+2026-11-09,S01,School,School (350 students and staff),350,people present,39.36,42.94,5.37,17.89,10.73,26.84,8.95,26.83,178.91,0.511,135.0,225.0,Normal,Simulated demonstration data
+2026-11-09,M01,Small food-processing industry,Small food-processing unit,1000,kg product processed,53.17,35.45,70.89,17.72,70.89,35.45,26.58,576.0,886.15,0.886,697.0,1003.0,Normal,Simulated demonstration data
+2026-11-09,HSP01,Hospital,60-bed community hospital,50,occupied beds (approx.),83.05,41.52,41.52,41.52,51.91,62.29,119.38,77.87,519.06,10.381,426.4,613.6,Normal,Simulated demonstration data
+2026-11-10,H01,Individual household,4-member household,4,residents,1.24,2.22,3.09,1.48,1.24,1.85,1.24,-0.01,12.35,3.087,9.84,14.16,Normal,Simulated demonstration data
+2026-11-10,A01,Apartment building,20-flat apartment (80 residents),80,residents,27.91,37.21,41.86,23.26,18.6,23.26,37.21,23.25,232.56,2.907,196.8,283.2,Normal,Simulated demonstration data
+2026-11-10,S01,School,School (350 students and staff),350,people present,41.87,45.67,5.71,19.03,11.42,28.55,9.52,28.54,190.31,0.544,135.0,225.0,Normal,Simulated demonstration data
+2026-11-10,M01,Small food-processing industry,Small food-processing unit,1000,kg product processed,48.58,32.38,64.77,16.19,64.77,32.38,24.29,526.23,809.59,0.81,697.0,1003.0,Normal,Simulated demonstration data
+2026-11-10,HSP01,Hospital,60-bed community hospital,50,occupied beds (approx.),82.15,41.08,41.08,41.08,51.35,61.61,118.09,77.01,513.45,10.269,426.4,613.6,Normal,Simulated demonstration data
+2026-11-11,H01,Individual household,4-member household,4,residents,1.25,2.25,3.13,1.5,1.25,1.88,1.25,0.0,12.51,3.127,9.84,14.16,Normal,Simulated demonstration data
+2026-11-11,A01,Apartment building,20-flat apartment (80 residents),80,residents,28.43,37.91,42.64,23.69,18.95,23.69,37.91,23.69,236.91,2.961,196.8,283.2,Normal,Simulated demonstration data
+2026-11-11,S01,School,School (350 students and staff),350,people present,36.81,40.15,5.02,16.73,10.04,25.1,8.37,25.08,167.3,0.478,135.0,225.0,Normal,Simulated demonstration data
+2026-11-11,M01,Small food-processing industry,Small food-processing unit,1000,kg product processed,52.79,35.19,70.38,17.6,70.38,35.19,26.39,571.86,879.78,0.88,697.0,1003.0,Normal,Simulated demonstration data
+2026-11-11,HSP01,Hospital,60-bed community hospital,50,occupied beds (approx.),78.42,39.21,39.21,39.21,49.01,58.82,112.73,73.53,490.14,9.803,426.4,613.6,Normal,Simulated demonstration data
+2026-11-12,H01,Individual household,4-member household,4,residents,1.19,2.13,2.96,1.42,1.19,1.78,1.19,-0.01,11.85,2.962,9.84,14.16,Normal,Simulated demonstration data
+2026-11-12,A01,Apartment building,20-flat apartment (80 residents),80,residents,28.26,37.68,42.39,23.55,18.84,23.55,37.68,23.53,235.48,2.943,196.8,283.2,Normal,Simulated demonstration data
+2026-11-12,S01,School,School (350 students and staff),350,people present,39.53,43.13,5.39,17.97,10.78,26.95,8.98,26.96,179.69,0.513,135.0,225.0,Normal,Simulated demonstration data
+2026-11-12,M01,Small food-processing industry,Small food-processing unit,1000,kg product processed,48.03,32.02,64.05,16.01,64.05,32.02,24.02,520.37,800.57,0.801,697.0,1003.0,Normal,Simulated demonstration data
+2026-11-12,HSP01,Hospital,60-bed community hospital,50,occupied beds (approx.),88.14,44.07,44.07,44.07,55.09,66.1,126.7,82.63,550.87,11.017,426.4,613.6,Normal,Simulated demonstration data
+2026-11-13,H01,Individual household,4-member household,4,residents,1.25,2.26,3.13,1.5,1.25,1.88,1.25,0.01,12.53,3.132,9.84,14.16,Normal,Simulated demonstration data
+2026-11-13,A01,Apartment building,20-flat apartment (80 residents),80,residents,28.97,38.62,43.45,24.14,19.31,24.14,38.62,24.14,241.39,3.017,196.8,283.2,Normal,Simulated demonstration data
+2026-11-13,S01,School,School (350 students and staff),350,people present,38.34,41.82,5.23,17.43,10.46,26.14,8.71,26.12,174.25,0.498,135.0,225.0,Normal,Simulated demonstration data
+2026-11-13,M01,Small food-processing industry,Small food-processing unit,1000,kg product processed,50.07,33.38,66.76,16.69,66.76,33.38,25.03,542.42,834.49,0.834,697.0,1003.0,Normal,Simulated demonstration data
+2026-11-13,HSP01,Hospital,60-bed community hospital,50,occupied beds (approx.),80.39,40.2,40.2,40.2,50.25,60.29,115.56,75.36,502.45,10.049,426.4,613.6,Normal,Simulated demonstration data
+2026-11-14,H01,Individual household,4-member household,4,residents,1.18,2.13,2.96,1.42,1.18,1.78,1.18,0.01,11.84,2.96,9.84,14.16,Normal,Simulated demonstration data
+2026-11-14,A01,Apartment building,20-flat apartment (80 residents),80,residents,28.76,38.35,43.14,23.97,19.17,23.97,38.35,23.96,239.67,2.996,196.8,283.2,Normal,Simulated demonstration data
+2026-11-14,S01,School,School (350 students and staff),350,people present,28.82,31.44,3.93,13.1,7.86,19.65,6.55,19.67,131.02,0.374,135.0,225.0,Normal,Simulated demonstration data
+2026-11-14,M01,Small food-processing industry,Small food-processing unit,1000,kg product processed,47.7,31.8,63.6,15.9,63.6,31.8,23.85,516.73,794.98,0.795,697.0,1003.0,Normal,Simulated demonstration data
+2026-11-14,HSP01,Hospital,60-bed community hospital,50,occupied beds (approx.),88.24,44.12,44.12,44.12,55.15,66.18,126.85,82.75,551.53,11.031,426.4,613.6,Normal,Simulated demonstration data
